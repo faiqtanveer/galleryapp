@@ -1,16 +1,5 @@
 # galleryapp
 
-A new Flutter project.
+![gallery app ui snip 1](https://user-images.githubusercontent.com/46129169/148401051-df077d8d-27e9-438b-a10e-9c516aced81a.png)
+![gallery app ui snip 2](https://user-images.githubusercontent.com/46129169/148401084-fec3798a-5f3e-40df-b628-e3e4292c4459.png)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
